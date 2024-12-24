@@ -30,7 +30,7 @@ body {
     padding: 0;
 }
 
-.sticky-nav {
+/* .sticky-nav {
     position: fixed;
     top: 0;
     left: 0;
@@ -45,7 +45,7 @@ body {
 }
 
 .sticky-nav.scrolled {
-    background-color: #0056b3; /* Màu tối hơn khi cuộn */
+    background-color: #0056b3; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
@@ -56,5 +56,5 @@ body {
 
 .sticky-nav a:hover {
     text-decoration: underline;
-}
+} */
 
